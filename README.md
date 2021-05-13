@@ -15,13 +15,13 @@ Radyal bozunma eşitliğinde K1,K2,K3,… katsayıları radyal distorsiyon katsa
 isimlendirilmektedir. Bu katsayıların etkileri ana noktayla olan mesafenin kuvvetleri ile 
 orantılıdır. 
 
-<img align="center" src="github_images/denklem1.png">
+<img align="center" src="github_image/denklem1.png">
 
 Eşitlikteki mesafenin başlangıç noktası ana noktadır. Ana noktadan görüntü çevresine doğru 
 mesafe ile doğru orantılı olarak distorsiyon etkisi devam eder. Ana noktaya olan uzaklık 
 aşağıdaki formül ile hesaplanır. 
 
-<img align="center" src="github_images/denklem2.png">
+<img align="center" src="github_image/denklem2.png">
 
 Radyal bozulmalar kendi içerisinde iki başlığa ayrılmaktadır.
 
@@ -36,7 +36,7 @@ küçülürler.
 Yastık veya içbükey bozulma olarak adlandırılan bu bozulma şeklinde, merkezden kenara 
 doğru gisildikçe düz çizgiler içbükey hale gelir böylelikle bu çizgiler yastık şekli oluşturur.
 
-<img align="center" src="github_images/radial_distortion.png">
+<img align="center" src="github_image/radial_distortion.png">
 
 ### 1.1. Teğetsel Bozulmalar
 
@@ -44,7 +44,7 @@ Kameralardaki mercekler üretim aşamasında aynı doğrultuda yerleştirilememe
 doğrultudan sapma nedeniyle teğetsel (tanjant) distorsiyon denilen geometrik yer değiştirmeye 
 sebep olacaktır. Teğetsel distorsiyon aşağıdaki denklemler ile hesaplanabilmektedir. 
 
-<img align="center" src="github_images/denklem3.png">
+<img align="center" src="github_image/denklem3.png">
 
 ## 2. KAMERA KALİBRASYONU
 
